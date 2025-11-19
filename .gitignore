@@ -33,3 +33,7 @@
 
 # Keep this file tracked
 !.gitignore
+
+# Environment files
+.env
+.env.*
